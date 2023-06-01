@@ -1,2 +1,2 @@
 # Pac-Man
-Pacman game made in Assembly
+Pacman game made with Assembly
